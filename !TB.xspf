@@ -8,7 +8,6 @@ http://stream.atr.ua/atr/live/index.m3u8
 #EXTINF:-1,UA Одесса INTERNATIONAL
 http://85.238.112.69:8811/hls_sec/239.4.228.28-.m3u8
 
-#EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1 group-title="Кинозалы catcast",Fentazy 18.03.2021.tva.org.ua
 http://v2.catcast.tv/content/38144/index.m3u8
 #EXTINF:-1 group-title="Кинозалы catcast",Premium кино (Алексей VHS)
