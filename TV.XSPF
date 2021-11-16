@@ -7,3 +7,5 @@ http://ftp.orbita.dn.ua/hls/orbita.m3u8
 http://stream.atr.ua/atr/live/index.m3u8
 #EXTINF:-1,UA Одесса INTERNATIONAL
 http://85.238.112.69:8811/hls_sec/239.4.228.28-.m3u8
+#EXTINF:-1,EngCluT
+http://46.34.209.243/btv/SWM/English_Club_TV/English_Club_TV_576p_2000kbps.m3u8
