@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0, Rossiya 24 - low
+https://mobdrm.mediavitrina.ru/hls-live2/streams/russia24/3s/russia24-chunks-1.m3u8?cdn=https%3A%2F%2Fvgtrklive-vitrina.cdnvideo.ru&token=v2.gVemq-hLMRQ6OQk2NIgANikYZO2ElIBUSYwkUy3sr00.NJAF_XhzIkdKt4CuSso5873scK5EY5RRubhT5_b_Blo.1672587752.d05b3256f6af53ef231c4e51840d93f5
 #EXTINF:0, Rossiya 24 - medium
 https://mobdrm.mediavitrina.ru/hls-live2/streams/russia24/3s/russia24-chunks-2.m3u8?cdn=https%3A%2F%2Fvgtrklive-vitrina.cdnvideo.ru&token=v2.gVemq-hLMRQ6OQk2NIgANikYZO2ElIBUSYwkUy3sr00.NJAF_XhzIkdKt4CuSso5873scK5EY5RRubhT5_b_Blo.1672587752.d05b3256f6af53ef231c4e51840d93f5
 #EXTINF:0, Moskva 24
